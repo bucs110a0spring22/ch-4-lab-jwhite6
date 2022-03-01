@@ -8,18 +8,22 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+
+In this lab, I learned how to create a graph using turtle and graphed trigonometric equations. I also learned about the use of functions, and how the math library works.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+
+None
 
 ## REFERENCES:
- < List any outside resources used >
+
+https://docs.python.org/3.8/library/turtle.html#turtle.setworldcoordinates
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+
+None
